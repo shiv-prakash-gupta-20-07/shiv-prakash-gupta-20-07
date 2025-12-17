@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 About Me
-- 🎓 First-year **Computer Science Engineering (CSE)** student at **Haridwar University, Roorkee**
+- 🎓 Second-year **Computer Science Engineering (CSE)** student at **Haridwar University, Roorkee**
 - 💡 Passionate about **software development** and **problem-solving**
 - 📚 Currently learning **Data Structures, Java, and Web Development**
 - 🤖 Interested in **Android Development** and **AI-based applications**
