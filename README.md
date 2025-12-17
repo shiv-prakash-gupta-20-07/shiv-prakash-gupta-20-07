@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I'm Shiv Prakash
 
-<!--
-**shiv-prakash-gupta-20-07/shiv-prakash-gupta-20-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Tech CSE Student** | 💻 **Aspiring Software Engineer** | 🌱 **Continuous Learner**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🎓 First-year **Computer Science Engineering (CSE)** student at **Haridwar University, Roorkee**
+- 💡 Passionate about **software development** and **problem-solving**
+- 📚 Currently learning **Data Structures, Java, and Web Development**
+- 🤖 Interested in **Android Development** and **AI-based applications**
+- 🏆 Completed courses on **Coursera** and **NPTEL (AI in Marketing)**
+
+---
+
+## 🛠️ Technical Skills
+- **Languages:** C, C++, Java (Basic)
+- **Web Technologies:** HTML, CSS
+- **Core Concepts:** Data Structures, Algorithms, OOPs
+- **Tools:** Git, GitHub, VS Code
+
+---
+
+## 🎯 Goals
+- Become a **Skilled Software Engineer**
+- Build **real-world projects**
+- Improve **problem-solving and coding skills**
+- Learn **Android & Full-Stack Development**
+
+---
+
+## 📫 Connect With Me
+- 📧 Email: *shivprakashgupta37@gmai.com*
+- 💼 LinkedIn: *https://www.linkedin.com/in/shiv-prakash-18083936a*
+- 🌐 GitHub: *https://github.com/shiv-prakash-20-07*
+
+---
+
+⭐ *“Learning never stops. Keep building, keep growing.”*
