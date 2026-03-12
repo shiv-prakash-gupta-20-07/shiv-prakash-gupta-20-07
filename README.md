@@ -8,15 +8,14 @@
 - 🎓 Second-year **Computer Science Engineering (CSE)** student at **Haridwar University, Roorkee**
 - 💡 Passionate about **software development** and **problem-solving**
 - 📚 Currently learning **Data Structures, Java, and Web Development**
-- 🤖 Interested in **Android Development** and **AI-based applications**
 - 🏆 Completed courses on **Coursera** and **NPTEL (AI in Marketing)**
 
 ---
 
 ## 🛠️ Technical Skills
-- **Languages:** C, C++, Java (Basic)
-- **Web Technologies:** HTML, CSS
-- **Core Concepts:** Data Structures, Algorithms, OOPs
+- **Languages:** C, Java, python
+- **Web Technologies:** HTML, CSS, javascript
+- **Core Concepts:** Data Structures, Algorithms, OOPs, operating system 
 - **Tools:** Git, GitHub, VS Code
 
 ---
